@@ -1,18 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 53,
+    "name": "Wet Machine",
+    "author": "(SILLY) Rori",
+    "creators": [(SILLY) Rori],
+    "verifier": "(SILLY) Rori",
+    "verification": "https://youtu.be/VQjQQezaUns",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Free to Copy",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
+        
     ]
 }
