@@ -8,5 +8,12 @@
     "percentToQualify": "52",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "[SILLY] Rori",
+            "link": "",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false,
+        }
     ]
 }
